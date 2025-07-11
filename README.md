@@ -2,7 +2,7 @@
 
 Welcome to **Hybrid AI Music Recommendation System** – an interactive app where anyone can discover personalized music recommendations powered by state-of-the-art AI!
 
-**Deployed on Streamlit:**   👉 [Try the App Here!]()
+**Deployed on Streamlit:**   👉 [Try the App Here!](https://hybrid-ai-music-recommender.streamlit.app/)
 
 *(No sign-up needed. Explore, play, and enjoy music recommendations instantly!)*
 
@@ -155,7 +155,7 @@ The project follows these simple but powerful steps:
    streamlit run app/streamlit_app.py
    ```
 
-4. **Or try it live:** [Streamlit Cloud App](YOUR_STREAMLIT_LINK_HERE)
+4. **Or try it live:** [Streamlit Cloud App](https://hybrid-ai-music-recommender.streamlit.app/)
 
 ---
 
@@ -232,7 +232,10 @@ Open an issue or contact me on [LinkedIn](https://www.linkedin.com/in/sagarikadu
 
 ---
 
-## 🔗 [Live Demo on Streamlit]()
+## 🔗 [Live Demo on Streamlit](https://hybrid-ai-music-recommender.streamlit.app/)
+
+
+Author : Sagarika Dubbaka
 
 
 ---
